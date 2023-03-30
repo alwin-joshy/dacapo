@@ -1,0 +1,40 @@
+Class name: org.dacapo.harness.Avrora
+Configurations:
+short     null
+long      null
+author    null
+license   null
+copyright null
+url       null
+version   null
+sizes     default large small
+Using a single thread to drive the workload.
+===== DaCapo 9.12-MR1 avrora starting warmup 1 =====
+===== DaCapo 9.12-MR1 avrora completed warmup 1 in 15064 msec =====
+===== DaCapo 9.12-MR1 avrora starting warmup 2 =====
+===== DaCapo 9.12-MR1 avrora completed warmup 2 in 11422 msec =====
+===== DaCapo 9.12-MR1 avrora starting warmup 3 =====
+===== DaCapo 9.12-MR1 avrora completed warmup 3 in 10648 msec =====
+===== DaCapo 9.12-MR1 avrora starting warmup 4 =====
+===== DaCapo 9.12-MR1 avrora completed warmup 4 in 10134 msec =====
+===== DaCapo 9.12-MR1 avrora starting warmup 5 =====
+===== DaCapo 9.12-MR1 avrora completed warmup 5 in 9910 msec =====
+===== DaCapo 9.12-MR1 avrora starting warmup 6 =====
+===== DaCapo 9.12-MR1 avrora completed warmup 6 in 10234 msec =====
+===== DaCapo 9.12-MR1 avrora starting warmup 7 =====
+===== DaCapo 9.12-MR1 avrora completed warmup 7 in 10042 msec =====
+===== DaCapo 9.12-MR1 avrora starting warmup 8 =====
+===== DaCapo 9.12-MR1 avrora completed warmup 8 in 9766 msec =====
+===== DaCapo 9.12-MR1 avrora starting warmup 9 =====
+===== DaCapo 9.12-MR1 avrora completed warmup 9 in 9965 msec =====
+===== DaCapo 9.12-MR1 avrora starting warmup 10 =====
+===== DaCapo 9.12-MR1 avrora completed warmup 10 in 10109 msec =====
+Variation 14.11% achieved after 10 iterations, target = 3.00%
+===== DaCapo 9.12-MR1 avrora starting warmup 11 =====
+===== DaCapo 9.12-MR1 avrora completed warmup 11 in 10000 msec =====
+Variation 4.48% achieved after 11 iterations, target = 3.00%
+===== DaCapo 9.12-MR1 avrora starting warmup 12 =====
+===== DaCapo 9.12-MR1 avrora completed warmup 12 in 10421 msec =====
+Variation 2.41% achieved after 12 iterations, target = 3.00%
+===== DaCapo 9.12-MR1 avrora starting =====
+===== DaCapo 9.12-MR1 avrora PASSED in 10213 msec =====

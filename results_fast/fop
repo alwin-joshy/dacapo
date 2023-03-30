@@ -1,0 +1,79 @@
+Class name: org.dacapo.harness.Fop
+Configurations:
+short     An output-independent print formatter
+long      fop takes an XSL-FO file, parses it and formats it, generating a postscript file
+author    Apache Software Foundation
+license   Apache Public License
+copyright Copyright (C) 1999-2006 The Apache Software Foundation
+url       http://xmlgraphics.apache.org/fop/
+version   0.95
+sizes     default small
+Using a single thread to drive the workload.
+===== DaCapo 9.12-MR1 fop starting warmup 1 =====
+===== DaCapo 9.12-MR1 fop completed warmup 1 in 12412 msec =====
+===== DaCapo 9.12-MR1 fop starting warmup 2 =====
+===== DaCapo 9.12-MR1 fop completed warmup 2 in 5626 msec =====
+===== DaCapo 9.12-MR1 fop starting warmup 3 =====
+===== DaCapo 9.12-MR1 fop completed warmup 3 in 4348 msec =====
+===== DaCapo 9.12-MR1 fop starting warmup 4 =====
+===== DaCapo 9.12-MR1 fop completed warmup 4 in 3898 msec =====
+===== DaCapo 9.12-MR1 fop starting warmup 5 =====
+===== DaCapo 9.12-MR1 fop completed warmup 5 in 3684 msec =====
+===== DaCapo 9.12-MR1 fop starting warmup 6 =====
+===== DaCapo 9.12-MR1 fop completed warmup 6 in 3008 msec =====
+===== DaCapo 9.12-MR1 fop starting warmup 7 =====
+===== DaCapo 9.12-MR1 fop completed warmup 7 in 2507 msec =====
+===== DaCapo 9.12-MR1 fop starting warmup 8 =====
+===== DaCapo 9.12-MR1 fop completed warmup 8 in 2177 msec =====
+===== DaCapo 9.12-MR1 fop starting warmup 9 =====
+===== DaCapo 9.12-MR1 fop completed warmup 9 in 2021 msec =====
+===== DaCapo 9.12-MR1 fop starting warmup 10 =====
+===== DaCapo 9.12-MR1 fop completed warmup 10 in 1895 msec =====
+Variation 71.46% achieved after 10 iterations, target = 3.00%
+===== DaCapo 9.12-MR1 fop starting warmup 11 =====
+===== DaCapo 9.12-MR1 fop completed warmup 11 in 1838 msec =====
+Variation 38.62% achieved after 11 iterations, target = 3.00%
+===== DaCapo 9.12-MR1 fop starting warmup 12 =====
+===== DaCapo 9.12-MR1 fop completed warmup 12 in 1782 msec =====
+Variation 33.38% achieved after 12 iterations, target = 3.00%
+===== DaCapo 9.12-MR1 fop starting warmup 13 =====
+===== DaCapo 9.12-MR1 fop completed warmup 13 in 1852 msec =====
+Variation 30.55% achieved after 13 iterations, target = 3.00%
+===== DaCapo 9.12-MR1 fop starting warmup 14 =====
+===== DaCapo 9.12-MR1 fop completed warmup 14 in 1573 msec =====
+Variation 27.90% achieved after 14 iterations, target = 3.00%
+===== DaCapo 9.12-MR1 fop starting warmup 15 =====
+===== DaCapo 9.12-MR1 fop completed warmup 15 in 1497 msec =====
+Variation 21.31% achieved after 15 iterations, target = 3.00%
+===== DaCapo 9.12-MR1 fop starting warmup 16 =====
+===== DaCapo 9.12-MR1 fop completed warmup 16 in 1612 msec =====
+Variation 15.33% achieved after 16 iterations, target = 3.00%
+===== DaCapo 9.12-MR1 fop starting warmup 17 =====
+===== DaCapo 9.12-MR1 fop completed warmup 17 in 1781 msec =====
+Variation 10.86% achieved after 17 iterations, target = 3.00%
+===== DaCapo 9.12-MR1 fop starting warmup 18 =====
+===== DaCapo 9.12-MR1 fop completed warmup 18 in 1699 msec =====
+Variation 8.67% achieved after 18 iterations, target = 3.00%
+===== DaCapo 9.12-MR1 fop starting warmup 19 =====
+===== DaCapo 9.12-MR1 fop completed warmup 19 in 1679 msec =====
+Variation 7.23% achieved after 19 iterations, target = 3.00%
+===== DaCapo 9.12-MR1 fop starting warmup 20 =====
+===== DaCapo 9.12-MR1 fop completed warmup 20 in 1667 msec =====
+Variation 6.51% achieved after 20 iterations, target = 3.00%
+===== DaCapo 9.12-MR1 fop starting warmup 21 =====
+===== DaCapo 9.12-MR1 fop completed warmup 21 in 1762 msec =====
+Variation 6.09% achieved after 21 iterations, target = 3.00%
+===== DaCapo 9.12-MR1 fop starting warmup 22 =====
+===== DaCapo 9.12-MR1 fop completed warmup 22 in 1670 msec =====
+Variation 5.86% achieved after 22 iterations, target = 3.00%
+===== DaCapo 9.12-MR1 fop starting warmup 23 =====
+===== DaCapo 9.12-MR1 fop completed warmup 23 in 1732 msec =====
+Variation 4.95% achieved after 23 iterations, target = 3.00%
+===== DaCapo 9.12-MR1 fop starting warmup 24 =====
+===== DaCapo 9.12-MR1 fop completed warmup 24 in 1724 msec =====
+Variation 4.61% achieved after 24 iterations, target = 3.00%
+===== DaCapo 9.12-MR1 fop starting warmup 25 =====
+===== DaCapo 9.12-MR1 fop completed warmup 25 in 1739 msec =====
+Variation 2.83% achieved after 25 iterations, target = 3.00%
+===== DaCapo 9.12-MR1 fop starting =====
+===== DaCapo 9.12-MR1 fop PASSED in 1791 msec =====

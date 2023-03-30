@@ -1,0 +1,70 @@
+Class name: org.dacapo.harness.Pmd
+Configurations:
+short     A source code analyzer for Java
+long      pmd analyzes a list of Java classes for a range of source code problems
+author    Tom Copeland
+license   BSD-style
+copyright Copyright (c) 2003, InfoEther, LLC
+url       http://pmd.sourceforge.net/
+version   4.2.5
+sizes     default large small xsmall
+Using a single thread to drive the workload.
+===== DaCapo 9.12-MR1 pmd starting warmup 1 =====
+===== DaCapo 9.12-MR1 pmd completed warmup 1 in 15446 msec =====
+===== DaCapo 9.12-MR1 pmd starting warmup 2 =====
+===== DaCapo 9.12-MR1 pmd completed warmup 2 in 9087 msec =====
+===== DaCapo 9.12-MR1 pmd starting warmup 3 =====
+===== DaCapo 9.12-MR1 pmd completed warmup 3 in 8133 msec =====
+===== DaCapo 9.12-MR1 pmd starting warmup 4 =====
+===== DaCapo 9.12-MR1 pmd completed warmup 4 in 7363 msec =====
+===== DaCapo 9.12-MR1 pmd starting warmup 5 =====
+===== DaCapo 9.12-MR1 pmd completed warmup 5 in 7500 msec =====
+===== DaCapo 9.12-MR1 pmd starting warmup 6 =====
+===== DaCapo 9.12-MR1 pmd completed warmup 6 in 7221 msec =====
+===== DaCapo 9.12-MR1 pmd starting warmup 7 =====
+===== DaCapo 9.12-MR1 pmd completed warmup 7 in 7157 msec =====
+===== DaCapo 9.12-MR1 pmd starting warmup 8 =====
+===== DaCapo 9.12-MR1 pmd completed warmup 8 in 7040 msec =====
+===== DaCapo 9.12-MR1 pmd starting warmup 9 =====
+===== DaCapo 9.12-MR1 pmd completed warmup 9 in 6409 msec =====
+===== DaCapo 9.12-MR1 pmd starting warmup 10 =====
+===== DaCapo 9.12-MR1 pmd completed warmup 10 in 6378 msec =====
+Variation 31.05% achieved after 10 iterations, target = 3.00%
+===== DaCapo 9.12-MR1 pmd starting warmup 11 =====
+===== DaCapo 9.12-MR1 pmd completed warmup 11 in 6314 msec =====
+Variation 11.21% achieved after 11 iterations, target = 3.00%
+===== DaCapo 9.12-MR1 pmd starting warmup 12 =====
+===== DaCapo 9.12-MR1 pmd completed warmup 12 in 6548 msec =====
+Variation 8.01% achieved after 12 iterations, target = 3.00%
+===== DaCapo 9.12-MR1 pmd starting warmup 13 =====
+===== DaCapo 9.12-MR1 pmd completed warmup 13 in 6097 msec =====
+Variation 7.04% achieved after 13 iterations, target = 3.00%
+===== DaCapo 9.12-MR1 pmd starting warmup 14 =====
+===== DaCapo 9.12-MR1 pmd completed warmup 14 in 6290 msec =====
+Variation 6.89% achieved after 14 iterations, target = 3.00%
+===== DaCapo 9.12-MR1 pmd starting warmup 15 =====
+===== DaCapo 9.12-MR1 pmd completed warmup 15 in 5942 msec =====
+Variation 6.50% achieved after 15 iterations, target = 3.00%
+===== DaCapo 9.12-MR1 pmd starting warmup 16 =====
+===== DaCapo 9.12-MR1 pmd completed warmup 16 in 5834 msec =====
+Variation 6.34% achieved after 16 iterations, target = 3.00%
+===== DaCapo 9.12-MR1 pmd starting warmup 17 =====
+===== DaCapo 9.12-MR1 pmd completed warmup 17 in 5886 msec =====
+Variation 5.47% achieved after 17 iterations, target = 3.00%
+===== DaCapo 9.12-MR1 pmd starting warmup 18 =====
+===== DaCapo 9.12-MR1 pmd completed warmup 18 in 5743 msec =====
+Variation 4.32% achieved after 18 iterations, target = 3.00%
+===== DaCapo 9.12-MR1 pmd starting warmup 19 =====
+===== DaCapo 9.12-MR1 pmd completed warmup 19 in 5951 msec =====
+Variation 4.18% achieved after 19 iterations, target = 3.00%
+===== DaCapo 9.12-MR1 pmd starting warmup 20 =====
+===== DaCapo 9.12-MR1 pmd completed warmup 20 in 5867 msec =====
+Variation 4.05% achieved after 20 iterations, target = 3.00%
+===== DaCapo 9.12-MR1 pmd starting warmup 21 =====
+===== DaCapo 9.12-MR1 pmd completed warmup 21 in 5980 msec =====
+Variation 3.80% achieved after 21 iterations, target = 3.00%
+===== DaCapo 9.12-MR1 pmd starting warmup 22 =====
+===== DaCapo 9.12-MR1 pmd completed warmup 22 in 5829 msec =====
+Variation 2.49% achieved after 22 iterations, target = 3.00%
+===== DaCapo 9.12-MR1 pmd starting =====
+===== DaCapo 9.12-MR1 pmd PASSED in 5595 msec =====

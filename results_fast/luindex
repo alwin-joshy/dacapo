@@ -1,0 +1,118 @@
+Class name: org.dacapo.harness.Luindex
+Configurations:
+short     A text indexing tool
+long      Indexes a set of documents, the works of Shakespeare and the King James Bible
+author    Lucene Project Management Committee
+license   Apache License, Version 2.0
+copyright Copyright (C) The Apache Software Foundation
+url       http://lucene.apache.org/
+version   2.4.1
+sizes     default small
+Using a single thread to drive the workload.
+===== DaCapo 9.12-MR1 luindex starting warmup 1 =====
+===== DaCapo 9.12-MR1 luindex completed warmup 1 in 9025 msec =====
+===== DaCapo 9.12-MR1 luindex starting warmup 2 =====
+===== DaCapo 9.12-MR1 luindex completed warmup 2 in 3680 msec =====
+===== DaCapo 9.12-MR1 luindex starting warmup 3 =====
+===== DaCapo 9.12-MR1 luindex completed warmup 3 in 3303 msec =====
+===== DaCapo 9.12-MR1 luindex starting warmup 4 =====
+===== DaCapo 9.12-MR1 luindex completed warmup 4 in 2971 msec =====
+===== DaCapo 9.12-MR1 luindex starting warmup 5 =====
+===== DaCapo 9.12-MR1 luindex completed warmup 5 in 3245 msec =====
+===== DaCapo 9.12-MR1 luindex starting warmup 6 =====
+===== DaCapo 9.12-MR1 luindex completed warmup 6 in 3534 msec =====
+===== DaCapo 9.12-MR1 luindex starting warmup 7 =====
+===== DaCapo 9.12-MR1 luindex completed warmup 7 in 2692 msec =====
+===== DaCapo 9.12-MR1 luindex starting warmup 8 =====
+===== DaCapo 9.12-MR1 luindex completed warmup 8 in 2534 msec =====
+===== DaCapo 9.12-MR1 luindex starting warmup 9 =====
+===== DaCapo 9.12-MR1 luindex completed warmup 9 in 2637 msec =====
+===== DaCapo 9.12-MR1 luindex starting warmup 10 =====
+===== DaCapo 9.12-MR1 luindex completed warmup 10 in 2532 msec =====
+Variation 51.06% achieved after 10 iterations, target = 3.00%
+===== DaCapo 9.12-MR1 luindex starting warmup 11 =====
+===== DaCapo 9.12-MR1 luindex completed warmup 11 in 3221 msec =====
+Variation 13.18% achieved after 11 iterations, target = 3.00%
+===== DaCapo 9.12-MR1 luindex starting warmup 12 =====
+===== DaCapo 9.12-MR1 luindex completed warmup 12 in 2658 msec =====
+Variation 11.92% achieved after 12 iterations, target = 3.00%
+===== DaCapo 9.12-MR1 luindex starting warmup 13 =====
+===== DaCapo 9.12-MR1 luindex completed warmup 13 in 2491 msec =====
+Variation 12.21% achieved after 13 iterations, target = 3.00%
+===== DaCapo 9.12-MR1 luindex starting warmup 14 =====
+===== DaCapo 9.12-MR1 luindex completed warmup 14 in 2585 msec =====
+Variation 12.59% achieved after 14 iterations, target = 3.00%
+===== DaCapo 9.12-MR1 luindex starting warmup 15 =====
+===== DaCapo 9.12-MR1 luindex completed warmup 15 in 2497 msec =====
+Variation 12.18% achieved after 15 iterations, target = 3.00%
+===== DaCapo 9.12-MR1 luindex starting warmup 16 =====
+===== DaCapo 9.12-MR1 luindex completed warmup 16 in 2566 msec =====
+Variation 7.71% achieved after 16 iterations, target = 3.00%
+===== DaCapo 9.12-MR1 luindex starting warmup 17 =====
+===== DaCapo 9.12-MR1 luindex completed warmup 17 in 2566 msec =====
+Variation 7.76% achieved after 17 iterations, target = 3.00%
+===== DaCapo 9.12-MR1 luindex starting warmup 18 =====
+===== DaCapo 9.12-MR1 luindex completed warmup 18 in 2561 msec =====
+Variation 7.71% achieved after 18 iterations, target = 3.00%
+===== DaCapo 9.12-MR1 luindex starting warmup 19 =====
+===== DaCapo 9.12-MR1 luindex completed warmup 19 in 2936 msec =====
+Variation 8.36% achieved after 19 iterations, target = 3.00%
+===== DaCapo 9.12-MR1 luindex starting warmup 20 =====
+===== DaCapo 9.12-MR1 luindex completed warmup 20 in 2807 msec =====
+Variation 8.25% achieved after 20 iterations, target = 3.00%
+===== DaCapo 9.12-MR1 luindex starting warmup 21 =====
+===== DaCapo 9.12-MR1 luindex completed warmup 21 in 2519 msec =====
+Variation 5.25% achieved after 21 iterations, target = 3.00%
+===== DaCapo 9.12-MR1 luindex starting warmup 22 =====
+===== DaCapo 9.12-MR1 luindex completed warmup 22 in 2480 msec =====
+Variation 5.48% achieved after 22 iterations, target = 3.00%
+===== DaCapo 9.12-MR1 luindex starting warmup 23 =====
+===== DaCapo 9.12-MR1 luindex completed warmup 23 in 2514 msec =====
+Variation 5.41% achieved after 23 iterations, target = 3.00%
+===== DaCapo 9.12-MR1 luindex starting warmup 24 =====
+===== DaCapo 9.12-MR1 luindex completed warmup 24 in 2542 msec =====
+Variation 5.47% achieved after 24 iterations, target = 3.00%
+===== DaCapo 9.12-MR1 luindex starting warmup 25 =====
+===== DaCapo 9.12-MR1 luindex completed warmup 25 in 2488 msec =====
+Variation 5.50% achieved after 25 iterations, target = 3.00%
+===== DaCapo 9.12-MR1 luindex starting warmup 26 =====
+===== DaCapo 9.12-MR1 luindex completed warmup 26 in 2522 msec =====
+Variation 5.57% achieved after 26 iterations, target = 3.00%
+===== DaCapo 9.12-MR1 luindex starting warmup 27 =====
+===== DaCapo 9.12-MR1 luindex completed warmup 27 in 2926 msec =====
+Variation 6.64% achieved after 27 iterations, target = 3.00%
+===== DaCapo 9.12-MR1 luindex starting warmup 28 =====
+===== DaCapo 9.12-MR1 luindex completed warmup 28 in 2851 msec =====
+Variation 6.95% achieved after 28 iterations, target = 3.00%
+===== DaCapo 9.12-MR1 luindex starting warmup 29 =====
+===== DaCapo 9.12-MR1 luindex completed warmup 29 in 2588 msec =====
+Variation 6.11% achieved after 29 iterations, target = 3.00%
+===== DaCapo 9.12-MR1 luindex starting warmup 30 =====
+===== DaCapo 9.12-MR1 luindex completed warmup 30 in 2495 msec =====
+Variation 5.85% achieved after 30 iterations, target = 3.00%
+===== DaCapo 9.12-MR1 luindex starting warmup 31 =====
+===== DaCapo 9.12-MR1 luindex completed warmup 31 in 2446 msec =====
+Variation 6.06% achieved after 31 iterations, target = 3.00%
+===== DaCapo 9.12-MR1 luindex starting warmup 32 =====
+===== DaCapo 9.12-MR1 luindex completed warmup 32 in 2517 msec =====
+Variation 5.97% achieved after 32 iterations, target = 3.00%
+===== DaCapo 9.12-MR1 luindex starting warmup 33 =====
+===== DaCapo 9.12-MR1 luindex completed warmup 33 in 2461 msec =====
+Variation 6.12% achieved after 33 iterations, target = 3.00%
+===== DaCapo 9.12-MR1 luindex starting warmup 34 =====
+===== DaCapo 9.12-MR1 luindex completed warmup 34 in 2660 msec =====
+Variation 6.12% achieved after 34 iterations, target = 3.00%
+===== DaCapo 9.12-MR1 luindex starting warmup 35 =====
+===== DaCapo 9.12-MR1 luindex completed warmup 35 in 2481 msec =====
+Variation 6.14% achieved after 35 iterations, target = 3.00%
+===== DaCapo 9.12-MR1 luindex starting warmup 36 =====
+===== DaCapo 9.12-MR1 luindex completed warmup 36 in 2522 msec =====
+Variation 6.14% achieved after 36 iterations, target = 3.00%
+===== DaCapo 9.12-MR1 luindex starting warmup 37 =====
+===== DaCapo 9.12-MR1 luindex completed warmup 37 in 2517 msec =====
+Variation 4.52% achieved after 37 iterations, target = 3.00%
+===== DaCapo 9.12-MR1 luindex starting warmup 38 =====
+===== DaCapo 9.12-MR1 luindex completed warmup 38 in 2498 msec =====
+Variation 2.38% achieved after 38 iterations, target = 3.00%
+===== DaCapo 9.12-MR1 luindex starting =====
+===== DaCapo 9.12-MR1 luindex PASSED in 2961 msec =====
